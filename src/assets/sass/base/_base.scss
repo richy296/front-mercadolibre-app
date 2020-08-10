@@ -1,0 +1,38 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: 0;
+}
+
+body, html{
+    background-color: #EEE;
+}
+
+main{
+    width: 100%;
+}
+
+.mt-1{
+    margin-top: 5px;
+}
+
+.mt-4{
+    margin-top: 20px;
+}
+
+.mb-1{
+    margin-bottom: 5px;
+}
+
+.mb-4{
+    margin-bottom: 20px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
